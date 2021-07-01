@@ -137,7 +137,7 @@
 		"@storybook/addons": "^6.2.0",
 		"@storybook/csf": "^0.0.1",
 		"@storybook/react": "^6.2.0",
-		"@wojtekmaj/enzyme-adapter-react-17": "^0.6.1",
+		"@wojtekmaj/enzyme-adapter-react-17": "^0.6.2",
 		"ajv": "6.12.6",
 		"async": "^3.2.0",
 		"axe-core": "3.5.5",
